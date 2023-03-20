@@ -10,6 +10,7 @@
 * Doc 2
 
 #### Quotes:
+![Photo](https://res.cloudinary.com/vmog/image/upload/v1675607701/authors/rvnzjs6cvuml2dmrpcpp.jpg)
 > Abraham Lincoln: "The best way to predict your future is to create it."  
 > Abraham Lincoln: "My Best Friend is a person who will give me a book I have not read."  
 > Albert Einstein: "If you can't explain it to a six year old, you don't understand it yourself."
