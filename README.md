@@ -13,7 +13,7 @@
 ![Photo](https://res.cloudinary.com/vmog/image/upload/v1675607701/authors/rvnzjs6cvuml2dmrpcpp.jpg)
 > Abraham Lincoln: "The best way to predict your future is to create it."  
 > Abraham Lincoln: "My Best Friend is a person who will give me a book I have not read."  
-![Photo](https://res.cloudinary.com/vmog/image/upload/v1675611723/authors/akzd0xkngjlxfsczr8wl.jpg)
+![Photo](https://res.cloudinary.com/vmog/image/upload/v1675611723/authors/akzd0xkngjlxfsczr8wl.jpg).  
 > Albert Einstein: "If you can't explain it to a six year old, you don't understand it yourself."
 
 #### My most recent photo in Liverpool:
