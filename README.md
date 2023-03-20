@@ -1,5 +1,5 @@
 # Reading-Notes VMOG
-## My Code 102 Markdown
+## Code 102 Markdown
 
 #### Documents List (ol):
 1. Doc 1
