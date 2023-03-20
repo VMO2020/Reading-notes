@@ -19,4 +19,4 @@
 #### My most recent photo in Liverpool:
 ![Photo](https://res.cloudinary.com/vmog/image/upload/v1675703840/photos/cjmfib5jvtq3qo8x6vne.jpg)
 
-[My Repository HERE](https://github.com/VMO2020/Reading-notes/)
+[You can view my GitHub repo HERE](https://github.com/VMO2020/Reading-notes/)
