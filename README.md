@@ -32,4 +32,4 @@ Outside of work I spend most of my free time with family and friends.
 
 You can view my GitHub repo[ HERE](https://github.com/VMO2020/Reading-notes/)
 
-* very exciting * 
+
