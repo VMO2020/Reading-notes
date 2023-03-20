@@ -21,7 +21,7 @@ My name is Victor Ottati, I am Civil Engineer.
 My main passions include:
 - Photography
 - Football
-- Build something new in my computer
+- Build something new in my computer 
 
 Outside of work I spend most of my free time with family and friends.
 
