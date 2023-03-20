@@ -10,7 +10,7 @@
 * Doc 2
 
 ### Quote
-> My oun Quote
+> Abraham Lincoln: "The best way to predict your future is to create it."
 
 ![Photo](https://res.cloudinary.com/vmog/image/upload/v1675703840/photos/cjmfib5jvtq3qo8x6vne.jpg)
 
