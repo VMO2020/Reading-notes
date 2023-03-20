@@ -1,13 +1,13 @@
 # Reading-Notes VMOG
 ## Code 102
 
-### Documents List:
+### Documents List (ol):
 1. Doc 1
 2. Doc 2
 
-### Documents List2:
-. Doc 1
-. Doc 2
+### Documents List (ul):
+* Doc 1
+* Doc 2
 
 ### Quote
 > My oun Quote
