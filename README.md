@@ -10,7 +10,7 @@
 * Doc 2
 
 #### Quote:
-> Abraham Lincoln: "The best way to predict your future is to create it."
+> Abraham Lincoln: "The best way to predict your future is to create it."  
 > Abraham Lincoln: "My Best Friend is a person who will give me a book I have not read."
 
 #### Photo:
